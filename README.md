@@ -14,6 +14,19 @@ A pragmatic, Git-based methodology to streamline chip execution across pre-silic
 
 ---
 
+## Reason for the Setup
+
+In tight tapeout guidelines, constriants, tight timelines and to have proper Setup and communication between teams. A Basic structure which might improve the things and stuff. 
+Addition of the Reason for the ASIC flow setup. At for 1 to 3 Year experience knowing the basic file structure and understanding things is better. 
+
+<img width="660" height="1434" alt="IMG_0657" src="https://github.com/user-attachments/assets/cfa6fe82-6360-4c36-9cd7-c4abd32f1022" />
+
+<img width="660" height="1434" alt="IMG_0658" src="https://github.com/user-attachments/assets/d8fee5cb-0382-4e7d-87b5-812b9327cd9e" />
+
+<img width="1320" height="1489" alt="IMG_0659" src="https://github.com/user-attachments/assets/d4c65356-aa25-4740-b33d-f268c280abf0" />
+
+
+
 ## Overview and vision
 
 This README proposes a multi-repo, layered workflow that maps design, verification, physical design, and validation into consistent Git-structured units. It emphasizes centralized visibility (dashboards), reproducibility (CI/CD), and restricted access for sensitive artifacts, so execution engineers can focus on performance and quality rather than babysitting runs.
