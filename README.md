@@ -25,6 +25,13 @@ Addition of the Reason for the ASIC flow setup. At for 1 to 3 Year experience kn
 
 <img width="1320" height="1489" alt="IMG_0659" src="https://github.com/user-attachments/assets/d4c65356-aa25-4740-b33d-f268c280abf0" />
 
+## Reusable Chip Platform
+
+Importance of the Redesign of the Chips or Blocks. A Basic structure which might improve the things and stuff. Addition of the Reason for the ASIC flow setup. At for 1 to 3 Year experience knowing the basic file structure and understanding things is better. The young engineers can grow with reused designs. 
+
+<img width="1110" height="532" alt="Screenshot 2026-04-26 144004" src="https://github.com/user-attachments/assets/27ed2909-775b-4a5b-b391-38ce644e2871" />
+
+<img width="977" height="670" alt="Screenshot 2026-04-26 144128" src="https://github.com/user-attachments/assets/3de49b5c-29ce-4d3c-b05a-042dfbb2e390" />
 
 
 ## Overview and vision
